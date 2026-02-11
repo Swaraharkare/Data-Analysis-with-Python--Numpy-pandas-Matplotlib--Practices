@@ -18,7 +18,6 @@ Welcome to my data analysis journey! This repository is a dedicated workspace wh
 *   **📂 datasets/** — 💾 Sample CSV/JSON files used for training.
 
 ## 🛠️ Tech Stack & Skills
-- **Python** 🐍: The foundation of all analysis scripts.
 - **NumPy** 🔢: Multi-dimensional arrays and high-performance computing.
 - **Pandas** 📋: Efficient data structures for tabular data.
 - **Matplotlib** 🎨: Static, animated, and interactive visualizations.
@@ -30,10 +29,6 @@ Welcome to my data analysis journey! This repository is a dedicated workspace wh
 - [ ] Create publication-quality plots with Matplotlib.
 - [ ] Build a complete EDA portfolio project.
 
-## ⚙️ How to Use
-1. **Clone**: `git clone https://github.com`
-2. **Install**: `pip install -r requirements.txt`
-3. **Run**: Launch Jupyter Lab or VS Code and start exploring!
 
 ---
 ⭐ **If you find these practices helpful, feel free to give this repo a star!**

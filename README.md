@@ -1,9 +1,11 @@
 # 📊 Data-Analysis-with-Python-Practices
 
-![Python](https://img.shields.io)
-![NumPy](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![Matplotlib](https://img.shields.io)
+<p align="center">
+  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" alt="NumPy" />
+  <img src="https://img.shields.io" alt="Pandas" />
+  <img src="https://img.shields.io" alt="Matplotlib" />
+</p>
 
 ## 🚀 Project Overview
 Welcome to my data analysis journey! This repository is a dedicated workspace where I store all my coding practices, exercises, and mini-projects while learning the core libraries of the Python data science ecosystem.
